@@ -13,6 +13,6 @@ const styles = StyleSheet.create({
         borderBottomColor: 'white',
         borderBottomWidth: 2,
         marginVertical: 10,
-        width: 70,
+        width: 90,
     }
 })

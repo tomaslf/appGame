@@ -13,7 +13,7 @@ export default Header
 
 const styles = StyleSheet.create({
     header:{
-        backgroundColor:'#151522',
+        backgroundColor:'#ab9087',
         height:90,
         paddingTop:36,
         alignItems:'center',

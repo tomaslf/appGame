@@ -1,7 +1,7 @@
 export default{
-    primary: '#151522',
-    secondary: '#3D3B4E',
-    actionColor: '#FD5820',
-    disableColor: '#272638',
+    primary: '#ab9087',
+    secondary: '#796758',
+    actionColor: '#187a3c',
+    disableColor: '#cac3a4',
 
 }
